@@ -88,7 +88,7 @@ func main() {
 */
 
 func main() {
-	fmt.Println("Prueba abb")
+	fmt.Println("Prueba abb ")
 
 }
 
